@@ -696,7 +696,7 @@ function t(k, vars) { let s = STR[LANG][k] ?? STR.es[k] ?? k; if (vars) for (con
 const tr = o => (o && typeof o === 'object' && ('es' in o)) ? (o[LANG] ?? o.es) : o;
 const fmtMoney = n => { const s = String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, LANG === 'es' ? '.' : ','); return LANG === 'es' ? s + ' €' : '€' + s; };
 const fmtNum = (n, d = 1) => { const s = n.toFixed(d); return LANG === 'es' ? s.replace('.', ',') : s; };
-const COURSES = ['1ESO', '2ESO', '3ESO', '4ESO', '1BACH', '2BACH', 'FP', 'OTRO'];
+const COURSES = ['2ESO', '3ESO', 'OTRO'];
 
 // ---- Fichas de concepto (modo clase) y pregunta final de cada obra ----
 const CLASE = {
