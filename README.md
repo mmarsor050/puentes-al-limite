@@ -1,10 +1,10 @@
-# Puentes al límite
+# [Puentes al límite](https://mmarsor050.github.io/puentes-al-limite/puentes-al-limite.html)
 
 Juego de construcción de puentes con física real para Tecnología y Digitalización (2.º y 3.º ESO, válido para otros cursos). Trabaja cargas, triangulación, tracción y compresión, apoyos, arcos, cables, coeficiente de seguridad, flexión y tipos de puente. Incluye un Taller de esfuerzos. En español y en inglés.
 
 © Manuel Martín Soriano · Licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
 
-**Jugar en línea:** https://mmarsor050.github.io/puentes-al-limite/puentes-al-limite.html
+**Jugar en línea:** [https://mmarsor050.github.io/puentes-al-limite/puentes-al-limite.html](https://mmarsor050.github.io/puentes-al-limite/puentes-al-limite.html)
 
 ## Cómo se usa en el centro
 
